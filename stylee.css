@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+}
+.container{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}
+.box{
+    height: 150px;
+    width: 150px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin: 2rem;
+}
+.purple{
+    background-color: purple;
+}
+.orange{
+    background-color: orange;
+}
+.blue{
+    background-color: rgb(76, 76, 243);
+}
+.green{
+    background-color: greenyellow;
+}
+.white{
+    background-color: white;
+}
+.green{
+    background-color: green;
+}
